@@ -5,7 +5,3 @@ lol
 
 Yuki is a good dog
 Kaiden not a good kitty
-<<<<<<< HEAD
-
-=======
->>>>>>> feature
